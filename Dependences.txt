@@ -1,4 +1,4 @@
 npm install lucide-react
 react-icons
 framer-motion
-swiper
+swiper .
