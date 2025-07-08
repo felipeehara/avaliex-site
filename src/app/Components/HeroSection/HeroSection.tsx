@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function HeroSection() {
   return (
-    <section className="relative h-screen w-full flex items-center justify-center text-center text-white overflow-hidden">
+    <section id="inicio" className="relative h-screen w-full flex items-center justify-center text-center text-white overflow-hidden">
       {/* Container da imagem com efeitos premium */}
       <div className="absolute inset-0">
         <Image
